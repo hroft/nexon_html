@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.header_style {
+    /* padding-top: 180px;
+    padding-bottom: 180px; */
+    /* padding-left: 20px;
+    padding-right: 20px; */
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+    background-image: url(../img/bg-header_2.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.info_text {
+  text-align-last: left;
+}
